@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Eftelya. I am a freshman at Bilkent University Cs
 <!--
 **Eftelyaa/Eftelyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
